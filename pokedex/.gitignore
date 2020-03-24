@@ -17,6 +17,8 @@
 .env.development.local
 .env.test.local
 .env.production.local
+/doc
+/build_pokedex
 
 npm-debug.log*
 yarn-debug.log*
